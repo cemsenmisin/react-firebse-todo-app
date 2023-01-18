@@ -1,0 +1,21 @@
+[debug] [2021-09-12T15:24:09.036Z] ----------------------------------------------------------------------
+[debug] [2021-09-12T15:24:09.038Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2021-09-12T15:24:09.039Z] CLI Version:   9.18.0
+[debug] [2021-09-12T15:24:09.039Z] Platform:      darwin
+[debug] [2021-09-12T15:24:09.039Z] Node Version:  v14.17.5
+[debug] [2021-09-12T15:24:09.040Z] Time:          Sun Sep 12 2021 18:24:09 GMT+0300 (Israel Daylight Time)
+[debug] [2021-09-12T15:24:09.040Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-09-12T15:24:09.046Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-09-12T15:24:09.047Z] > authorizing via signed-in user (cemsen2000@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/cemsen/Desktop/REACT-FİREBSE-TODO-APP
+
